@@ -1,0 +1,62 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false,
+		"checkInvalidKey": true
+	},
+	"miniprogramRoot": "dist/wx/",
+	"compileType": "miniprogram",
+	"appid": "wxd1489f93fb7a95a6",
+	"projectname": "ele",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 2,
+			"list": [
+				{
+					"id": -1,
+					"name": "mine",
+					"pathName": "pages/tab/my/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 1,
+					"name": "login",
+					"pathName": "pages/tab/my/login/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 2,
+					"name": "index",
+					"pathName": "pages/tab/index/index",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}
